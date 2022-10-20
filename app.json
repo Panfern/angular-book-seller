@@ -1,0 +1,8 @@
+{
+  "name": "sha-book-seller-ui-1",
+  "buildpack": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
